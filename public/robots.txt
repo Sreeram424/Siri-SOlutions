@@ -1,0 +1,41 @@
+# Siri Solutions Robots Configuration
+# https://sirisolutions.in/
+
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /api/
+
+# AI Search & Generative Engine Crawlers (GEO / AI Discovery Enabled)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Canonical Sitemaps & LLM Discovery
+Sitemap: https://sirisolutions.in/sitemap.xml
+# LLMs Discovery
+# https://sirisolutions.in/llms.txt
+# https://sirisolutions.in/llms-full.txt

@@ -1,0 +1,17 @@
+{
+  "name": "Siri Solutions",
+  "short_name": "Siri Solutions",
+  "description": "Digital marketing, SEO, GEO, paid media, and web solutions agency in Vijayawada, Andhra Pradesh serving India & UAE.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF9F6",
+  "theme_color": "#111113",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
